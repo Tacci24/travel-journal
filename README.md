@@ -2,31 +2,31 @@
 This is a simple Travel Journal project built using React.js, following a tutorial by freeCodeCamp. The app displays a list of places visited with images, locations, maps links, and descriptions. I also customized and expanded it by adding my own information.
 
 👨‍💻 Personal Contribution
-Added my own travel experiences and data entries
+- Added my own travel experiences and data entries
 
-Customized layout, content, and style to reflect my journeys
+- Customized layout, content, and style to reflect my journeys
 
-Gained hands-on experience with React components, props, and JSX
+- Gained hands-on experience with React components, props, and JSX
 
 📽️ Tutorial Source
 This project was built by following this tutorial:
-👉 [React Course - Beginner's Tutorial for React Javascript Library](https://www.youtube.com/watch?v=x4rFhThSX04&t=16382s)
+[React Course - Beginner's Tutorial for React Javascript Library](https://www.youtube.com/watch?v=x4rFhThSX04&t=16382s)
 
 🚀 Features
-Displays travel entries (images, location, and description)
+- Displays travel entries (images, location, and description)
 
-Google Maps link for each location
+- Google Maps link for each location
 
-Responsive layout
+- Responsive layout
 
-Built using components and props
+- Built using components and props
 
 🛠️ Tech Stack
-React.js
+- React.js
 
-JSX
+- JSX
 
-CSS
+- CSS
 
 📦 How to Run the Project
 Clone this repository:
